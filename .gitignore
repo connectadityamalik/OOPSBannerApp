@@ -1,0 +1,17 @@
+### VS Code ###
+.vscode/
+
+# Compiled class files
+*.class
+*.jar
+*.log
+
+# Build Folders
+bin/
+out/
+target/
+build/
+dist/
+
+# System Files
+.DS_Store
